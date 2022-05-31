@@ -24,6 +24,9 @@ body{
       font-size: 4rem;
       text-shadow: 0 0 20px rgb(10,175,230,1),0 0 20px rgb(10,175,230,0.3) ;
  }
+ #clock p{
+     font-size: 35px;
+ }
  #Date_Day{
      font-size: 1.2rem;
      line-height: 2;
