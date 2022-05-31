@@ -28,6 +28,9 @@ body{
  #clock p{
      font-size: 35px;
  }
+ #clock p{
+     font-size: 35px;
+ }
  #Date_Day{
      font-size: 1.3rem;
      line-height: 2;
